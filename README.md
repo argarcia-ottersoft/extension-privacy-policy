@@ -1,28 +1,7 @@
 # Privacy Policy
 
-## Intro
+This software does not collect and send any personal or device information back to the developer of the software (Armando Garcia). Your data is stored locally on your device. If the app contains a web view, your data is subject to the privacy policy of whichever third-party service you use.
 
-Different extensions use personal data in different ways. This privacy policy encompasses general principles of how extensions I create collect and handle personal data. Individual extensions, when you first use them, will display their own unique privacy policies and ask you to agree to them before continued use.
+# Warranty
 
-## Data Collection
-
-None of the extensions I write collect any data at all. Since no data is collected, it stands to reason, and is, indeed, the case, that none of your data can be sold to third parties.
-
-That being said, there are a few other ways your data is used.
-
-## Chrome Storage API
-
-Several of my extensions take advantage of [Google Chrome's Storage API](https://developers.chrome.com/extensions/storage) to locally store minimal state information. This is similar to a [cookie](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies). Examples of data stored this way might include your initials for the [B-Roll Credit Copier](https://chrome.google.com/webstore/detail/b-roll-credit-copier/gnndiaoenmcmkcghlgkdnkdilnhoheog?hl=en-US) or information about if and when you agreed to the privacy policy. Google syncs this information across your various computers and Chrome installations. However, my extensions only access this data locally on your machine and they do not transmit it.
-
-## Changes to the Privacy Policy
-
-If there are substantive<sup>1</sup> changes made to this blanket privacy policy or to the individual privacy policies of any of my extensions, I will push out a new version of the affected extension(s) and ask you to agree to the amended privacy policy.
-
-## Feedback
-
-If you have questions or concerns about this privacy policy, feel free to [send me an email](mailto:david.heidelberger@gmail.com) or [file an issue](https://github.com/dheidelberger/extension-privacy-policy/issues/new) to this repository.
-
-***
-
-#### Notes:
-1 - When I say "substantive," I mean that I won't push out app updates for minor changes like fixing a typo.
+This software does not provide or guarentee customer support, nor is the developer of the software (Armando Garcia) responsible for any possible damages, inconveniences, or other mishaps that occur as a result of the use of the software.
