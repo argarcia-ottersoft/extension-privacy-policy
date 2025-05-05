@@ -1,4 +1,4 @@
-# Extension Privacy Policy
+# Privacy Policy
 
 ## Intro
 
